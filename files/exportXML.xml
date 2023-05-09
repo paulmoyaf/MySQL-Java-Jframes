@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productos>
+    <teclado No.="1">
+        <Código>t03</Código>
+        <Marca>TECH</Marca>
+        <Precio>10.0</Precio>
+        <Descuento>1.0</Descuento>
+        <Tipo>PRIME</Tipo>
+        <Color>NEGRO</Color>
+        <Teclas>12</Teclas>
+        <Conector>USB</Conector>
+        <Envío>GRATIS</Envío>
+        <PVP>10.0</PVP>
+    </teclado>
+    <teclado No.="2">
+        <Código>t04</Código>
+        <Marca>FENDER</Marca>
+        <Precio>10.0</Precio>
+        <Descuento>1.0</Descuento>
+        <Tipo>PRIME</Tipo>
+        <Color>NEGRO</Color>
+        <Teclas>61</Teclas>
+        <Conector>USB</Conector>
+        <Envío>GRATIS</Envío>
+        <PVP>10.0</PVP>
+    </teclado>
+    <teclado No.="3">
+        <Código>t05</Código>
+        <Marca>GIBSON</Marca>
+        <Precio>500.0</Precio>
+        <Descuento>10.0</Descuento>
+        <Tipo>REGULAR</Tipo>
+        <Color>NEGRO</Color>
+        <Teclas>61</Teclas>
+        <Conector>USB</Conector>
+        <Envío>+15€</Envío>
+        <PVP>465.0</PVP>
+    </teclado>
+    <teclado No.="4">
+        <Código>t32</Código>
+        <Marca>UNO</Marca>
+        <Precio>10.0</Precio>
+        <Descuento>10.0</Descuento>
+        <Tipo>REGULAR</Tipo>
+        <Color>BLANCO</Color>
+        <Teclas>61</Teclas>
+        <Conector>MIDI</Conector>
+        <Envío>+15€</Envío>
+        <PVP>24.0</PVP>
+    </teclado>
+    <teclado No.="5">
+        <Código>t322</Código>
+        <Marca>HELA</Marca>
+        <Precio>15.0</Precio>
+        <Descuento>100.0</Descuento>
+        <Tipo>REGULAR</Tipo>
+        <Color>VERDE</Color>
+        <Teclas>20</Teclas>
+        <Conector>USB</Conector>
+        <Envío>+15€</Envío>
+        <PVP>15.0</PVP>
+    </teclado>
+    <teclado No.="6">
+        <Código>t4</Código>
+        <Marca>PERL</Marca>
+        <Precio>500.0</Precio>
+        <Descuento>10.0</Descuento>
+        <Tipo>REGULAR</Tipo>
+        <Color>ROJO</Color>
+        <Teclas>84</Teclas>
+        <Conector>MIDI</Conector>
+        <Envío>+15€</Envío>
+        <PVP>465.0</PVP>
+    </teclado>
+    <teclado No.="7">
+        <Código>t55</Código>
+        <Marca>FENDER</Marca>
+        <Precio>450.0</Precio>
+        <Descuento>10.0</Descuento>
+        <Tipo>PRIME</Tipo>
+        <Color>BLANCO</Color>
+        <Teclas>61</Teclas>
+        <Conector>USB</Conector>
+        <Envío>GRATIS</Envío>
+        <PVP>405.0</PVP>
+    </teclado>
+    <teclado No.="8">
+        <Código>t65</Código>
+        <Marca>YAMAHA</Marca>
+        <Precio>375.0</Precio>
+        <Descuento>25.0</Descuento>
+        <Tipo>REGULAR</Tipo>
+        <Color>NEGRO</Color>
+        <Teclas>61</Teclas>
+        <Conector>XFIND</Conector>
+        <Envío>+15€</Envío>
+        <PVP>297.0</PVP>
+    </teclado>
+    <teclado No.="9">
+        <Código>t7</Código>
+        <Marca>PACIFIC</Marca>
+        <Precio>1000.0</Precio>
+        <Descuento>10.0</Descuento>
+        <Tipo>REGULAR</Tipo>
+        <Color>ROJO</Color>
+        <Teclas>81</Teclas>
+        <Conector>USB</Conector>
+        <Envío>+15€</Envío>
+        <PVP>915.0</PVP>
+    </teclado>
+</productos>
