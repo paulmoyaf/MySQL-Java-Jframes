@@ -30,14 +30,16 @@ public class Conexion {
 
     public String password = "";
     public String password2 = "1234";
-    // public String password = "Paul123456";
+
 
     public Connection conectarMySQL() throws ClassNotFoundException{
         Connection conexion = null;
 
         try {
             Class.forName(driver2);
+            // conexion para Mysql
             conexion = DriverManager.getConnection(url, username, password);
+            // conexion para Postgre
             //  conexion = DriverManager.getConnection(url, username2, password2);
 
             if (url.substring(5,10).equals("mysql")){
