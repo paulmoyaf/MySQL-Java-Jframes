@@ -6,6 +6,19 @@ Proyecto para conectar una base de datos con MySQL y POSTGREE.
 - Tiene dos formularios para visualizar la base de datos.
 - Puede exportar la informacion de la BBDD a CSV o XML.
 
+
+## Create BBDD automatic
+
+Note: Open your server first
+
+In windows you have bat file to automatically create a database for this project.
+./files/crearBBDD_MySQL
+
+## Dependency Management
+
+- mysql-connector-j-8.0.32
+- postgresql-42.6.0
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
@@ -17,6 +30,3 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
